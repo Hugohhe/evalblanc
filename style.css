@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    
+
+}
+
+.sections{
+    width: 80%;
+    /* border: solid  black 1px; */
+    background-color: #A8A9AD;
+}
+
+.main{
+    /* border: solid  black 1px; */
+    width: 10%;
+    background-color: gray;
+}
+
+img{
+    height: 150px;
+}
+
+.experience {
+    text-align: center;
+    
+}
+
+.education{
+    text-align: center;
+}
+
+.competences{
+    text-align: center;
+}
+
+.projets{
+    text-align: center;
+}
+
+section{
+    margin-bottom: 100px;
+}
